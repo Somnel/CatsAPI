@@ -23,7 +23,7 @@ Para realizar a conexão com o endpoint, inserir parâmetros e gerenciar callbac
 ## Telas
 Abaixo, uma demonstração do funcionamento do aplicativo:
 
-<p align="center"> <img alt="Tela inicial" src="app/src/main/res/drawable/images/screen1.png" width="250"> <img alt="Mensagem de erro sobre parâmetro counter" src="app/src/main/res/drawable/images/screen2.png" width="250"> <img alt="Resultado com 20 fatos" src="app/src/main/res/drawable/images/screen3.png" width="250"> </p>
+<p align="center"> <img alt="Tela inicial" src="app/src/main/res/drawable/images/screen1.jpeg" width="250"> <img alt="Mensagem de erro sobre parâmetro counter" src="app/src/main/res/drawable/images/screen2.jpeg" width="250"> <img alt="Resultado com 20 fatos" src="app/src/main/res/drawable/images/screen3.jpeg" width="250"> </p>
 
 - <b>Tela Inicial</b>: Entrada do parâmetro counter e botão de busca.
 - <b>Mensagem de Erro</b>: Exemplo de validação para quando o parâmetro não é preenchido ou é inválido.
